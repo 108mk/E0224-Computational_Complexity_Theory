@@ -9,7 +9,7 @@ $\textbf{Part-I}:$
 > $\bullet$ Universal Turing machine (UTM) and Church-Turing thesis
 
 > UTM overhead of $\mathcal{O}(T\cdot log(T))$ [proof omitted]
-> $\bullet$ Possible violation of Strong Church-Turing Thesis due to Quantum Machine
+> $\bullet \textbf{Possible violation of Strong Church-Turing Thesis due to Quantum Machine}$ 
 
 $\textbf{Part-II}:$
 > $\bullet$ Deterministic Turing Machine and complexity class $P$
@@ -17,4 +17,24 @@ $\textbf{Part-II}:$
 
 > $\bullet$ Cook-Levin Theorem and NP-Completeness of SAT (Boolean Satisfiability Problem)
  
-> $\bullet$ Karp reduction and Zoo of NP-complete problem 
+> $\bullet$ Karp reduction and Zoo of NP-complete problem
+>
+> $\bullet$ Decision versus Search Problem: Complexity class co-NP
+> $\bullet$ More harder Decision Problems: EXP and NEXP
+
+$\textbf{Part-III}:$
+> $\bullet$ Proofs techniques: Diagonalization and Oracle-Methods (Relativization)
+
+>  Time Hierarchy Theorem: $f(n)log(f(n))=\mathbb{o}(g(n)) \implies DTIME(f(n))\not\subset DTIME(g(n))$
+
+>  Prove for $P \subset EXP\implies$ $\textbf{Hence, chess, checker and Go will never have a Polynomial-time algorithm in the classical world(!)}$
+
+> $\bullet$ Landner's Theorem and NP-Intermediate Problems: Prove for $SAT_H$ is NP-Intermediate
+
+> $\bullet$ Curious case of $INTEGER\ FACTORING$ and Graph Isomorphism Problem
+
+> $\bullet$ Oracle Machine and Proof by Relativization
+> $\bullet$ Prove that the P versus NP debate can't be settled by oracle-based relativization
+
+$\textbf{Part-IV}:$ 
+> $\bullet$ Space Complexity and PSPACE complexity class
