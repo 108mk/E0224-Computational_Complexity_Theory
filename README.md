@@ -27,7 +27,7 @@ $\textbf{Part-III}:$
 
 >  Time Hierarchy Theorem: $f(n)log(f(n))=\mathbb{o}(g(n)) \implies DTIME(f(n))\not\subset DTIME(g(n))$
 
->  Prove for $P \subset EXP\implies$ $\textbf{Hence, chess, checker and Go will never have a Polynomial-time algorithm in the classical world(!)}$
+>  Prove for $P \subset EXP\implies$ $\textbf{Chess and Go will never have a classical Polynomial-time algorithm(!)}$
 
 > $\bullet$ Landner's Theorem and NP-Intermediate Problems: Prove for $SAT_H$ is NP-Intermediate
 
