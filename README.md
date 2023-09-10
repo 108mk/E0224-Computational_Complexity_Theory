@@ -1,5 +1,5 @@
 # E0224-Computational_Complexity_Theory
-E0224:Computational_Complexity_Theory is a course on the theoretical foundation of computer science
+E0224:Computational_Complexity_Theory is a course on the theoretical foundation of computer science and automation at IISc, Bnegaluru.
 
 🎯 Essential Highlights of techniques and tools:
 
@@ -10,7 +10,7 @@ $\textbf{Part-I}:$
 > $\bullet$ Universal Turing machine (UTM) and Church-Turing thesis
 
 > UTM overhead of $\mathcal{O}(T\cdot log(T))$ [proof omitted]
-> $\bullet \textbf{Possible violation of Strong Church-Turing Thesis due to Quantum Machine}$ 
+> $\bullet \textbf{Possible violation of Strong Church-Turing Thesis due to Quantum Machine}[😃]$ 
 
 $\textbf{Part-II}:$
 > $\bullet$ Deterministic Turing Machine and complexity class $P$
