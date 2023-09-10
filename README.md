@@ -1,6 +1,7 @@
 # E0224-Computational_Complexity_Theory
 E0224:Computational_Complexity_Theory is a course on the theoretical foundation of computer science
-Essential Highlights of techniques and tools:
+
+🎯 Essential Highlights of techniques and tools:
 
 $\textbf{Part-I}:$
 > $\bullet$ Turing Machine and formal definition of algorithms
