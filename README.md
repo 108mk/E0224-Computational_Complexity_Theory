@@ -38,4 +38,13 @@ $\textbf{Part-III}:$
 > $\bullet$ Prove that the P versus NP debate can't be settled by oracle-based relativization
 
 $\textbf{Part-IV}:$ 
-> $\bullet$ Space Complexity and PSPACE complexity class
+> $\bullet$ Space bounded computation: PSPACE complexity problems
+>
+> SPACE Vs TIME bounded Computation: $DTIME(S(n))\subseteq SPACE(S(n)) \subseteq DTIME(2^{\mathcal{O}(S(n))})$
+>
+> P=PSPACE debate; Can time be used during computation similar to space reuse/modification. [Within time travel restriction]
+>
+> Space Hierarchy Theorem: $f(n)=\mathcal{o}(g(n))\implies SPACE(f(n)) \subsetneq SPACE(g(n))$
+>
+$\bullet$ Savitch's Theorem: $NSPACE(S(n))\subseteq SPACE(S(n)^2) \implies$ Non-determinism doesnt add any more power to turing machine in space bounded computation
+
