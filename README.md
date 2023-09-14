@@ -16,7 +16,7 @@ $\textbf{Part-II}:$
 > $\bullet$ Deterministic Turing Machine and complexity class $P$
 > $\bullet$ Non-deterministic Turing Machine and complexity class $NP$
 
-> $\bullet$ Cook-Levin Theorem and NP-Completeness of SAT (Boolean Satisfiability Problem)
+>⭐ $\bullet$ Cook-Levin Theorem and NP-Completeness of SAT (Boolean Satisfiability Problem)
  
 > $\bullet$ Karp reduction and Zoo of NP-complete problem
 >
@@ -32,9 +32,9 @@ $\textbf{Part-III}:$
 
 > $\bullet$ Landner's Theorem and NP-Intermediate Problems: Prove for $SAT_H$ is NP-Intermediate
 
-> $\bullet$ Curious case of $INTEGER\ FACTORING$ and Graph Isomorphism Problem
+>⭐ $\bullet$ Curious case of $INTEGER\ FACTORING$ and Graph Isomorphism Problem
 
-> $\bullet$ Oracle Machine and Proof by Relativization
+>⭐ $\bullet$ Oracle Machine and Proof by Relativization
 > $\bullet$ Prove that the P versus NP debate can't be settled by oracle-based relativization
 
 $\textbf{Part-IV}:$ 
@@ -42,9 +42,9 @@ $\textbf{Part-IV}:$
 >
 > SPACE Vs TIME bounded Computation: $DTIME(S(n))\subseteq SPACE(S(n)) \subseteq DTIME(2^{\mathcal{O}(S(n))})$
 >
-> P=PSPACE debate; Can time be used during computation similar to space reuse/modification. [Within time travel restriction]
+>⭐ P=PSPACE debate: Can time be used during computation like space reuse/modification? [Within time travel restriction]
 >
 > Space Hierarchy Theorem: $f(n)=\mathcal{o}(g(n))\implies SPACE(f(n)) \subsetneq SPACE(g(n))$
 >
-$\bullet$ Savitch's Theorem: $NSPACE(S(n))\subseteq SPACE(S(n)^2) \implies$ Non-determinism doesnt add any more power to turing machine in space bounded computation
+$\bullet$ Savitch's Theorem: $NSPACE(S(n))\subseteq SPACE(S(n)^2) \implies$ Non-determinism doesn't add any more power to Turing machine in space-bounded computation
 
