@@ -45,6 +45,14 @@ $\textbf{Part-IV}:$
 >⭐ P=PSPACE debate: Can time be reused during computation like space reuse/modification? [Within time travel restriction]
 
 > Space Hierarchy Theorem: $f(n)=\mathcal{o}(g(n))\implies SPACE(f(n)) \subsetneq SPACE(g(n))$
+
+>⭐ Savitch's Theorem: $NSPACE(S(n))\subseteq SPACE(S(n)^2) \implies$ Non-determinism doesn't add any more power to Turing machine in space-bounded computation
+
+> $\bullet$ Class L: Logarithmic space complexity; $UPATH \implies$ s-t connectivity in an undirected graph is in L.
 >
-$\bullet$ Savitch's Theorem: $NSPACE(S(n))\subseteq SPACE(S(n)^2) \implies$ Non-determinism doesn't add any more power to Turing machine in space-bounded computation
+> $\bullet$ Class NL: Non-deterministic Logarithmic space complexity; $PATH \implies$ s-t connectivity in a directed graph is in NL.
+
+> ⭐ PSAPCE-completeness under Karp reduction: Quantified Boolean formula and hardness of TQBF decision problem.
+
+> $\bullet$ NL-completeness under Log-space reduction: $PATH$ is NL-complete problem
 
