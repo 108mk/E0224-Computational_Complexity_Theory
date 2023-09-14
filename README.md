@@ -1,5 +1,5 @@
 # E0224-Computational_Complexity_Theory
-E0224:Computational_Complexity_Theory is a course on the theoretical foundation of computer science and automation at IISc, Bnegaluru.
+E0224:Computational_Complexity_Theory is a course on the theoretical foundation of computer science and automation at IISc, Bengaluru.
 
 🎯 Essential Highlights of techniques and tools:
 
@@ -41,9 +41,9 @@ $\textbf{Part-IV}:$
 > $\bullet$ Space bounded computation: PSPACE complexity problems
 >
 > SPACE Vs TIME bounded Computation: $DTIME(S(n))\subseteq SPACE(S(n)) \subseteq DTIME(2^{\mathcal{O}(S(n))})$
->
->⭐ P=PSPACE debate: Can time be used during computation like space reuse/modification? [Within time travel restriction]
->
+
+>⭐ P=PSPACE debate: Can time be reused during computation like space reuse/modification? [Within time travel restriction]
+
 > Space Hierarchy Theorem: $f(n)=\mathcal{o}(g(n))\implies SPACE(f(n)) \subsetneq SPACE(g(n))$
 >
 $\bullet$ Savitch's Theorem: $NSPACE(S(n))\subseteq SPACE(S(n)^2) \implies$ Non-determinism doesn't add any more power to Turing machine in space-bounded computation
