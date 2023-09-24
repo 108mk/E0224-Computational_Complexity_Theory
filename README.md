@@ -56,3 +56,17 @@ $\textbf{Part-IV}:$
 
 > $\bullet$ NL-completeness under Log-space reduction: $PATH$ is NL-complete problem
 
+$\textbf{Part-V}:$ 
+> $\bullet$ Polynomial Hierarchy(PH) and Alternating Turing Machine (ATM)
+>
+> Problem between NP and PSAPCE: Eq-DNF and Succinct Set-Cover
+
+>⭐ Class $\Sigma_i$ and $\Pi_i$ as generalization of $NP$ and co-NP.
+
+> Polynomial Hierarchy $(PH)$ $\in$ $PSPACE$
+
+>⭐ $PH$ conjecture and hierarchy collapse theorem
+
+> Complete problems in $PH$
+
+
