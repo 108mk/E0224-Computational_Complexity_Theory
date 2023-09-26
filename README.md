@@ -67,6 +67,14 @@ $\textbf{Part-V}:$
 
 >⭐ $PH$ conjecture and hierarchy collapse theorem
 
-> Complete problems in $PH$
+> Complete problems in within any $PH$ level: $\Sigma_i$-SAT is a complete problem
 
+> 💡 Oracle access to Language $L$ $\neq$ access to an efficient algorithm for $L$
 
+$\textbf{Part-VI}:$ 
+> $\bullet$ Boolean Circuit
+
+> Parity problem and its boolean circuit
+> Class $P/Poly=\bigcup_{c\geq 1} SIZE(n^c)$
+
+> ⭐ Karp-Lipton Theorem 
