@@ -74,8 +74,26 @@ $\textbf{Part-V: Polynomial Hierarchy}$
 $\textbf{Part-VI: Circuit Model of Computation}$ 
 > $\bullet$ Boolean Circuit
 
-> Parity problem and its boolean circuit
+> PARITY problem and its boolean circuit
 > 
 > Class $P/Poly=\bigcup_{c\geq 1} SIZE(n^c)$
 
-> ⭐ Karp-Lipton Theorem 
+> ⭐ Karp-Lipton Theorem
+
+> Class NC $\equiv$ Efficient Parallel Computation
+> 
+> Class AC (Unbounded fan-in version of NC)
+>
+> Logarithmic blow up in size for AC to NC conversion: $AC^i\subseteq NC^{i+1}\subseteq AC^{i+1}$
+
+🎯 P-complete problem under log space reduction
+> P-complete problems:
+>> Circuit Value Problem
+>>
+>> Linear Programming
+>>
+>> Context Free Grammer (CFG) membership
+>> 
+> Is $P=(uniform)NC?$
+
+🎯 Switching Lemma and $PARITY \not\subset AC^0$
