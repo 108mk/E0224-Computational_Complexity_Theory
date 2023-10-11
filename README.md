@@ -98,3 +98,15 @@ $\textbf{Part-VI: Circuit Model of Computation}$
 
 🎯 Switching Lemma and $PARITY \not\subset AC^0$
 > Combinatorial Proof of Switching Lemma
+
+$\textbf{Part-VII: Randomized Computation}$
+
+⭐ Probabilistic Turing Machine
+>Complexity class BPP and robustness of its definition 
+>
+>Sipser-Gacs-Lautemann theorem: $BPP \subseteq \Sigma_2$
+>
+> Adelman Theorem: $BPP \subseteq P/poly$
+>
+
+⭐ Why truly random bits for BPP? Non-constructible number
