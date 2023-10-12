@@ -9,7 +9,7 @@ $\textbf{Part-I: Turing Machine as a model of computation}$
 
 > $\bullet$ Universal Turing machine (UTM) and Church-Turing thesis
 
-> UTM overhead of $\mathcal{O}(T\cdot log(T))$ [proof omitted]
+> UTM overhead of $\mathcal{O}(T\cdot log(T))$ [proof omitted] 
 > $\bullet \textbf{Possible violation of Strong Church-Turing Thesis due to Quantum Machine}[😃]$ 
 
 $\textbf{Part-II: Deterministic and Non-deterministic Turing Machine}$
