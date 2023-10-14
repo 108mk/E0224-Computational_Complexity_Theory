@@ -1,5 +1,5 @@
 # E0224-Computational_Complexity_Theory
-This is my personal repository for E0224:Computational_Complexity_Theory. Itis a course on the theoretical foundation of computer science and automation at IISc, Bengaluru. You can find my codes and assignment solution along with class notes. Feel free to fork and use. Don't hesitate to report mistakes if you find them in the documents.
+This is my personal repository for E0224:Computational_Complexity_Theory. It is a course on the theoretical foundation of computer science and automation at IISc, Bengaluru. You can find my codes and assignment solution along with class notes. Feel free to fork and use. Don't hesitate to report mistakes if you find them in the documents.
 
 🎯 Essential Highlights of techniques and tools:
 
