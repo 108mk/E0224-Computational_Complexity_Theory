@@ -33,7 +33,7 @@ $\bullet$ More harder Decision Problems: EXP and NEXP
 
 $\bullet$ Proofs techniques: Diagonalization and Oracle-Methods (Relativization)
 
-Time Hierarchy Theorem: '$f(n)log(f(n))=\mathbb{o}(g(n)) \implies DTIME(f(n))\not\subset DTIME(g(n))'$
+Time Hierarchy Theorem: $f(n)log(f(n))=\mathbb{o}(g(n)) \implies DTIME(f(n))\not\subset DTIME(g(n))$
 
 Prove for $P \subsetneq EXP\implies$ $\textbf{Chess and Go will never have a classical Polynomial-time algorithm(!)}$
 
