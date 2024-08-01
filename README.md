@@ -121,3 +121,17 @@ Adelman Theorem: $BPP \subseteq P/poly$
 >
 
 ⭐ Why truly random bits for BPP? Non-constructible number
+
+> Randamization and Non-determinism: BP.NP
+
+## Part-VIII: Complexity of Counting
+
+⭐ #P complexity class
+
+> class PP and $P^{PP}$ 
+
+> Toda theorem + Valiant-Vazirani Theorem
+$PH\subseteq P^{sharp-P}$
+
+# course website:
+https://www.csa.iisc.ac.in/~chandan/courses/complexity23/home.html
